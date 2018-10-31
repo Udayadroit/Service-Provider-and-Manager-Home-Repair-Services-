@@ -3,8 +3,8 @@
 <?php
    $servername = "localhost";
    $username = "root";
-   $password = "Lokesh1234";
-   $db = "dbmsproject";
+   $password = "";
+   $db = "";
    
    // Create connection
    $conn = new mysqli($servername, $username, $password,$db);
